@@ -1,0 +1,13 @@
+TRAIN = 1
+
+TEST = 5
+
+SIGNAL_SIZE = 28
+
+FILTER_SIZE = [6,6]
+
+FILTER = [6,6]
+
+CLASS = 10
+
+
